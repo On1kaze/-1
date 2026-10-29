@@ -1,0 +1,23 @@
+# Compiled class files
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# Build & temp files
+sources.txt
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
